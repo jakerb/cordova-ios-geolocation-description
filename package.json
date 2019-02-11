@@ -1,0 +1,19 @@
+{
+  "name": "cordova-ios-geolocation-description",
+  "version": "1.2.0",
+  "author": "Jake Bown",
+  "description": "Cordova Plugin Permission Settings for NSLocationWhenInUseUsageDescription in iOS by adding a declaration to the Info.plist file",
+  "cordova": {
+    "id": "cordova-ios-geolocation-description",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT"
+}
